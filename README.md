@@ -42,3 +42,27 @@ Your assignment will be evaluated based on the following criteria:
 Note: Please make sure to test your Dockerized WordPress application thoroughly to ensure it functions as expected.
 
 Good luck with your assignment! If you have any questions or need further assistance, feel free to ask.
+
+
+===========================================================================================================================================================================
+
+Dockerizing WordPress with Dockerfile, Docker Compose, and Database Optimization
+
+### 1) Write a Dockerfile for WordPress:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
