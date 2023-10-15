@@ -1,4 +1,4 @@
-###@@@@@Dockerized WordPress Assignment@@@@@
+###@@@@@Dockerized WordPress Application@@@@@
 
 This repository contains the Dockerfile, Docker Compose file, .env file and database optimization strategies for Dockerizing a WordPress application. The assignment's objective was to create a Dockerfile for WordPress, write a Docker Compose file to orchestrate the application, optimize the database for performance, and document the approach in a Readme file.
 
